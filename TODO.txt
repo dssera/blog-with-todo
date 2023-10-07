@@ -1,0 +1,9 @@
+1.configure project +
+2.add posts +
+3.pagination +
+4.CBV +
+5.Recommending posts by email
+6.Creating a comment system
+7.filter system
+8.Switch to PostgreSQL 
+9.Review
